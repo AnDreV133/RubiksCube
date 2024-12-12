@@ -1,3 +1,5 @@
 # ninja log v5
 1	2736	7557291478483469	CMakeFiles/RubiksCube.dir/main.cpp.obj	e581eea531f9b112
 2746	2955	7557291480603897	RubiksCube.exe	cdd4f045f3f49633
+3	1481	7557296440702738	CMakeFiles/RubiksCube.dir/main.cpp.obj	e581eea531f9b112
+1482	1596	7557296441817954	RubiksCube.exe	cdd4f045f3f49633
